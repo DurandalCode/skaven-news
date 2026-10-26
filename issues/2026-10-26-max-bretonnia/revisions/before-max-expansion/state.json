@@ -1,0 +1,14 @@
+{
+  "issue_id": "2026-10-26-max-bretonnia",
+  "stage": "concept_review",
+  "updated_at": "2026-10-26",
+  "art_required": null,
+  "source_status": "user_confirmed_fiction",
+  "approvals": {
+    "concept": {"status": "pending"},
+    "art_brief": {"status": "not_requested"},
+    "publication": {"status": "pending"}
+  },
+  "publication": {"status": "not_sent", "channel": null},
+  "note": "Полный пробный текст подготовлен по запросу пользователя для обсуждения. Изображение и канал ещё не определены."
+}
