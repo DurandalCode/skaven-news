@@ -1,0 +1,40 @@
+{
+  "issue_id": "2026-10-26-max-bretonnia",
+  "stage": "art_iteration_review",
+  "updated_at": "2026-10-26",
+  "art_required": true,
+  "source_status": "user_confirmed_fiction",
+  "approvals": {
+    "concept": {
+      "status": "pending"
+    },
+    "art_brief": {
+      "status": "direct_generation_authorized",
+      "user_message": "Добавь в основную статью пж. и давай генерировать картинку, мы щас явно будем некоторое время выверять скиллы для генерации",
+      "scope": "Первый пробный арт; отдельное утверждение брифа не запрашивалось по прямому поручению генерировать."
+    },
+    "publication": {
+      "status": "pending"
+    }
+  },
+  "publication": {
+    "status": "not_sent",
+    "channel": null
+  },
+  "note": "Текст перенесён в репозиторий. Арт v13 не решил проблему качества по отзыву пользователя; пробуем внешние генераторы. Иллюстрации и промежуточные генерации остались в локальном архиве. Финальные утверждения не получены.",
+  "art": {
+    "status": "external_tool_trials",
+    "user_approved": false,
+    "archive_location": "local_only",
+    "notes_file": "art-notes.md"
+  },
+  "current_checksums": {
+    "source.md": "a65cef3b0db6a0d01953c682e3eeee30a2b6ca0346496b28ddbc510e3305d4eb",
+    "draft.md": "4917bf52ad76eae544a9e8053302fa90698ef20bef986c8950f1a2ab21fa1768",
+    "telegram.html": "4fef90a22f272686368cb6433b47191bc44e1cb1d0a551d58f849b4e5b21ee8d"
+  },
+  "art_feedback": {
+    "v9": "Пользователь отверг изменение общего стиля и персонажей; одобрил только масштаб пожара квартала.",
+    "v13": "Упрощение изображения не помогло избавиться от нежелательного характера рисунка. Пользователь решил попробовать внешние инструменты."
+  }
+}
