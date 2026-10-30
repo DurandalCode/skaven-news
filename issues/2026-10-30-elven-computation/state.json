@@ -1,0 +1,25 @@
+{
+  "issue_id": "2026-10-30-elven-computation",
+  "stage": "concept_review",
+  "updated_at": "2026-10-30T10:27:47Z",
+  "art_required": true,
+  "approvals": {
+    "concept": {
+      "status": "pending"
+    },
+    "art_brief": {
+      "status": "pending"
+    },
+    "publication": {
+      "status": "pending"
+    }
+  },
+  "publication": {
+    "status": "not_prepared"
+  },
+  "notes": [
+    "Пользователь предложил пройти весь процесс на этой новости.",
+    "Замысел и соответствия предложены, не утверждены.",
+    "Изображение предполагается для пробы полного процесса; бриф ещё не подготовлен."
+  ]
+}
