@@ -1,7 +1,7 @@
 {
   "issue_id": "2026-10-26-max-bretonnia",
   "stage": "art_iteration_review",
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-10-30T11:46:00Z",
   "art_required": true,
   "source_status": "user_confirmed_fiction",
   "approvals": {
@@ -21,12 +21,25 @@
     "status": "not_sent",
     "channel": null
   },
-  "note": "Текст перенесён в репозиторий. Арт v13 не решил проблему качества по отзыву пользователя; пробуем внешние генераторы. Иллюстрации и промежуточные генерации остались в локальном архиве. Финальные утверждения не получены.",
+  "note": "Возобновлена работа над артом по прямому поручению пользователя. Подготовлены три промпта Nano Banana; новые генерации ещё не получены. Текст и прежние результаты сохранены, финальных утверждений нет.",
   "art": {
     "status": "external_tool_trials",
     "user_approved": false,
     "archive_location": "local_only",
-    "notes_file": "art-notes.md"
+    "notes_file": "art-notes.md",
+    "current_trial": {
+      "generator": "Nano Banana",
+      "access": "user_mirror",
+      "status": "prompts_prepared",
+      "prompt_file": "art-prompt.md",
+      "brief_file": "art-brief.md",
+      "variants": [
+        "high_control",
+        "medium_control",
+        "low_control"
+      ],
+      "user_request": "Ох и найди в репке новость про МАКС, давай через нано банану прогоним в тех же трёх вариках"
+    }
   },
   "current_checksums": {
     "source.md": "a65cef3b0db6a0d01953c682e3eeee30a2b6ca0346496b28ddbc510e3305d4eb",
